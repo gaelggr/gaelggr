@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        
+        <meta charset="utf-8">  
     </head>
     <body>
     <h1 style="font-family:courier;background:green; color:white; font-weight:bold; padding:15px; border:3px solid white; margin-top:5px; margin-bottom:40px; text-align:center; font-size:22px; border-radius:10px;">Wildpoldsried, el pueblo que produce más energía renovable de la que necesita</h1><p style="font-family:helvetica;background: white; font-weight: bold; padding: 1px; border-left:10px solid green; border-top-left-radius:8px; border-bottom-left-radius:8px;margin-top:-40px; text-align:center; border-right:10px solid green; border-top-right-radius:8px; border-bottom-right-radius:8px">LA VANGUARDIA</p>
@@ -16,9 +15,5 @@ Fué Wendelin Einsiedler, un ganadero particular, quien inició el proyecto. est
 En 1999, el gobierno local hizo una consulta que llamó “Wildpoldsried Innovativ richtungsweisend”, Liderazgo de Innovación para Wildpoldsried  en el que se le preguntó a la ciudadanía qué proyectos visualizaban para el año 2020. La gran mayoría de los vecinos de Wildpoldsried se mostró favorable al proyecto y empezó así un cambio energético que en tan solo 14 años ya producía 3 veces más energía de la que necesitaban.</p>
 
 <a href="https://www.lavanguardia.com/natural/20170928/431608605163/wildpoldsried-energia-renovable-autosuficiencia-ganaderos-iniciativa-ciudadana.html" style="padding:15px 15px 20px 15px;border-left:5px solid green;background:#F5F5F5;margin-bottom:30px;line-height:26px !important; float:right">LaVanguardia</a>
-
-
-
-
-    </body>
+</body>
 </html>
