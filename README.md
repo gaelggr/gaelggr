@@ -1,5 +1,3 @@
-# gaelggr.com
-CEO of living.
 <!DOCTYPE html>
 <html>
     <head>
