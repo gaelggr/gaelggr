@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">↩
-        <title>Derivado de "Ecología"</title>
+        <meta charset="utf-8">
+        
     </head>
     <body>
     <h1 style="font-family:courier;background:green; color:white; font-weight:bold; padding:15px; border:3px solid white; margin-top:5px; margin-bottom:40px; text-align:center; font-size:22px; border-radius:10px;">Wildpoldsried, el pueblo que produce más energía renovable de la que necesita</h1><p style="font-family:helvetica;background: white; font-weight: bold; padding: 1px; border-left:10px solid green; border-top-left-radius:8px; border-bottom-left-radius:8px;margin-top:-40px; text-align:center; border-right:10px solid green; border-top-right-radius:8px; border-bottom-right-radius:8px">LA VANGUARDIA</p>
